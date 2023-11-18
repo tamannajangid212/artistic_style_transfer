@@ -8,4 +8,4 @@ Check `model.png` for a visual representation detailing how the model works.
 
 ## References
 
-[Include your references here]
+uploaded 
