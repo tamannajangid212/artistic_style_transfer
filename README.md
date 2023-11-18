@@ -1,5 +1,11 @@
-# artistic_style_transfer_using_Cnn
-Here i have use cnn for completing this assignment.
-for content i have use paris.jpg image and for starry_night.jpg for style and final.lpg contain result of the model.
-model.png contain working of the model.
-references :i have uploaded.
+# Artistic Style Transfer Using CNN
+
+This project focuses on artistic style transfer using a Convolutional Neural Network (CNN). The content image, `paris.jpg`, and the style image, `starry_night.jpg`, were used in the process. The result of the model is stored in `final.jpg`.
+
+## Model Working
+
+Check `model.png` for a visual representation detailing how the model works.
+
+## References
+
+[Include your references here]
